@@ -1,9 +1,10 @@
 # Linux Server Configuration
 This is the fifth project for Udacity's Full Stack Web Developer Nanodegree. 
 
-The project is to take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers. This was done using AWS.
+The project is to take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, including installing updates, securing it from a number of attack vectors and installing/configuring web and database servers. This was done using AWS Lightsail.
 
 Project IP address: 52.59.212.112
+
 HTTP address: http://www.52.59.212.112.xip.io/
 
 
